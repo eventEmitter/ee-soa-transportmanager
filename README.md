@@ -1,5 +1,7 @@
 # ee-soa-transportmanager
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/ee-soa-transportmanager.svg)](https://greenkeeper.io/)
+
 Manages the SOA Transports
 
 ## installation
